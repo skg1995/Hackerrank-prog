@@ -1,3 +1,0 @@
-# Hackerrank-prog
-
-hello
